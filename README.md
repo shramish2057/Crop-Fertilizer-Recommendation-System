@@ -6,7 +6,7 @@
 
 ## About
 
-<b>CropRS</b> is a machine learning based we application build using React and Flask. CropRS is used for recommending Crop and Fertilizers based on the soil features. The application used three accuractely predciting models to make the final predictions. 
+<b>CropRS</b> is a machine learning based web application built using React and Flask. CropRS is used for recommending Crop and Fertilizers based on the soil features. The application uses three accuractely predciting models to make the final predictions. 
 
 An API was built using Flask and was deployed on Heroku. This Flask API is used to get the recommendation made by the machine learning models in JSON format. The input data is sent as a POST request to the API to get the predicted information.<br/>
 
